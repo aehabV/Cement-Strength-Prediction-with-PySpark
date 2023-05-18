@@ -2,6 +2,8 @@
 
 [![Language Badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
 [![PySpark Badge](https://img.shields.io/badge/PySpark-3.1.2-e25a1c.svg)](https://spark.apache.org/docs/latest/api/python/index.html)
+[![Library Badge](https://img.shields.io/badge/Library-Pandas-yellow.svg)](https://pandas.pydata.org/)
+[![Library Badge](https://img.shields.io/badge/Library-Scikit--learn-orange.svg)](https://scikit-learn.org/)
 [![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 This project involves building a regression model using PySpark's MLlib to predict the compressive strength of cement based on its ingredients. The dataset consists of 1030 instances of concrete samples, containing 9 attributes (8 continuous and 1 discrete), and 1 continuous quantitative output variable.
