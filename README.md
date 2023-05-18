@@ -1,5 +1,9 @@
 # Cement Strength Prediction with PySpark's MLlib
 
+[![Language Badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![PySpark Badge](https://img.shields.io/badge/PySpark-3.1.2-e25a1c.svg)](https://spark.apache.org/docs/latest/api/python/index.html)
+[![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
 This project involves building a regression model using PySpark's MLlib to predict the compressive strength of cement based on its ingredients. The dataset consists of 1030 instances of concrete samples, containing 9 attributes (8 continuous and 1 discrete), and 1 continuous quantitative output variable.
 
 Our goal is to identify the features that are the strongest predictors of cement strength and provide recommendations for optimal values of cement ingredients. We will also create an application where users can input their own values for age and get a predicted value for cement strength.
